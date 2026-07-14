@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://stellar.org/favicon.ico" width="80" alt="Stellar Logo" />
+  <img src="https://raw.githubusercontent.com/RALPH22222/csmp-web-admin/main/public/logo.png" width="80" alt="BayanIpon Logo" />
   <h1>BayanIpon - Soroban Smart Contracts</h1>
   <p><strong>The Decentralized Trust Layer</strong></p>
 </div>
